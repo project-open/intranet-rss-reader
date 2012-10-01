@@ -12,7 +12,7 @@ ad_page_contract {
 }
 
 if {"" == $rss_feeds} {
-    lappend rss_feeds "http://www.project-open.org/rss/project-open-community.rss"
+    lappend rss_feeds "http://www.project-open.net/rss/project-open-community.rss"
     lappend rss_feeds "http://sourceforge.net/export/rss2_projnews.php?group_id=86419"
 }
 
@@ -105,7 +105,7 @@ foreach rss_feed $rss_feeds {
     #
     #	<item>
     #		<title>Updated Italien Localization available for download</title>
-    #		<link>http://www.project-open.org/sources/italian_catalogs_update.rar</link>
+    #		<link>http://www.project-open.net/sources/italian_catalogs_update.rar</link>
     #		<description>Thanks goes to our partner ...</description>
     #		<guid isPermaLink="false">{ca01b700-eaba-981c-d97b-7280a9cbd186}</guid>
     #		<pubDate>Tue, 22 Jul 2008 16:30:27 GMT</pubDate>

@@ -87,7 +87,7 @@ ns_log notice "rss-reader: match=$match, tag1=$tag1, tag2=$tag2, tag3=$tag3"
 #
 #	<item>
 #		<title>Updated Italien Localization available for download</title>
-#		<link>http://www.project-open.org/sources/italian_catalogs_update.rar</link>
+#		<link>http://www.project-open.net/sources/italian_catalogs_update.rar</link>
 #		<description>Thanks goes to our partner ...</description>
 #		<guid isPermaLink="false">{ca01b700-eaba-981c-d97b-7280a9cbd186}</guid>
 #		<pubDate>Tue, 22 Jul 2008 16:30:27 GMT</pubDate>
