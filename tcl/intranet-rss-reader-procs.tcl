@@ -22,6 +22,9 @@ set feed_ctr 0
 set debug ""
 set html ""
 
+# Fraber 130116: What is this??? Why is there such a syntax error in the code?
+set rss_feeds {}
+
 foreach rss_feed $rss_feeds {
 
     if { [catch {
