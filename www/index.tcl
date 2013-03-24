@@ -12,10 +12,9 @@ ad_page_contract {
 }
 
 if {"" == $rss_feeds} {
-    lappend rss_feeds "http://www.project-open.net/rss/project-open-community.rss"
-    lappend rss_feeds "http://sourceforge.net/export/rss2_projnews.php?group_id=86419"
+    lappend rss_feeds "http://www.project-open.net/rss/project-open-community.xml"
+    # lappend rss_feeds "http://sourceforge.net/p/project-open/news/feed"
 }
-
 
 # ------------------------------------------------------------
 # Authentication & defaults
