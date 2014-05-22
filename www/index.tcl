@@ -42,7 +42,7 @@ set html "
 foreach rss_feed $rss_feeds {
 
     if { [catch {
-	set update_xml [util_memoize "ns_httpget $rss_feed" 3600]
+	set update_xml [util_memoize [list ns_httpget $rss_feed] 3600]
     } errmsg] } {
 	ad_return_complaint 1 "Error while accessing the URL '$rss_feed'.<br>
     Please check your URL. The following error was returned: <br>
