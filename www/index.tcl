@@ -20,7 +20,7 @@ if {"" == $rss_feeds} {
 # Authentication & defaults
 #
 
-set user_id [ad_get_user_id]
+set user_id [ad_conn user_id]
 set page_title [lang::message::lookup intranet-cust-project.RSS "RSS"]
 
 
