@@ -13,16 +13,14 @@
         <summary>Displays the contents of a number of rss feeds as an HTML page</summary>
         <release-date>2016-11-15</release-date>
         <vendor url="http://www.project-open.com/">]project-open[</vendor>
+	<license>]project-open[ Free License (FL)</license>
         <description format="text/plain">Displays the contents of a number of rss feeds as an HTML page</description>
         <maturity>0</maturity>
-
         <provides url="intranet-rss-reader" version="3.4.0.2.0"/>
-
         <callbacks>
         </callbacks>
         <parameters>
         <!-- No version parameters -->
         </parameters>
-
     </version>
 </package>
