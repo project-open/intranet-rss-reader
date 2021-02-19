@@ -2,9 +2,9 @@
 This package is part of ]project-open[, an open-source enterprise project management system.
 
 For more information about ]project-open[ please see:
-* [Documentation Wiki](http://www.project-open.com/en/)
+* [Documentation Wiki](https://www.project-open.com/en/)
 * [V5.0 Download](https://sourceforge.net/projects/project-open/files/project-open/V5.0/)
-* [Installation Instructions](http://www.project-open.com/en/list-installers)
+* [Installation Instructions](https://www.project-open.com/en/list-installers)
 
 About ]po[ RSS Reader:
 
@@ -14,7 +14,7 @@ About ]po[ RSS Reader:
 
 ## Procedure Files
 
-<table cellpadding="0" cellspacing="0"><tr valign="top"><td style="width:35%"><b><a href="http://www.project-open.net/api-doc/procs-file-view?version_id=200904&amp;path=packages/intranet-rss-reader/tcl/intranet-rss-reader-procs.tcl">tcl/intranet-rss-reader-procs.tcl</a></b></td><td></td><td>Auxiallary functions to read RSS feeds </td></tr></table>
+<table cellpadding="0" cellspacing="0"><tr valign="top"><td style="width:35%"><b><a href="https://www.project-open.net/api-doc/procs-file-view?version_id=200904&amp;path=packages/intranet-rss-reader/tcl/intranet-rss-reader-procs.tcl">tcl/intranet-rss-reader-procs.tcl</a></b></td><td></td><td>Auxiallary functions to read RSS feeds </td></tr></table>
 
 ## Procedures
 
@@ -26,5 +26,5 @@ About ]po[ RSS Reader:
 
 ## Content Pages
 
-<table cellpadding="0" cellspacing="0"><tr valign="top"><td><b>www/</b></td></tr><tr valign="top"><td style="width:35%"><b><a href="http://www.project-open.net/api-doc/content-page-view?version_id=200904&amp;path=packages/intranet-rss-reader/www/index.tcl">index.tcl</a></b></td><td>Loads several RSS feeds and displays them</td></tr></table>
+<table cellpadding="0" cellspacing="0"><tr valign="top"><td><b>www/</b></td></tr><tr valign="top"><td style="width:35%"><b><a href="https://www.project-open.net/api-doc/content-page-view?version_id=200904&amp;path=packages/intranet-rss-reader/www/index.tcl">index.tcl</a></b></td><td>Loads several RSS feeds and displays them</td></tr></table>
 
